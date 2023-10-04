@@ -2,4 +2,4 @@
 Receta pizza
 
 ## Pizza 1
-me justa la pizza
+me gusta la pizza
